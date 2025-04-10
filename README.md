@@ -1,4 +1,5 @@
 🏷️ Adidas Sales Analysis
+
 Welcome to the Adidas Sales Analysis project! This data analysis project dives deep into Adidas sales data to uncover trends, performance metrics, and actionable insights using Python.
 
 📌 Project Objective
